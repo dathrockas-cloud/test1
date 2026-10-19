@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SozialGreen" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">#1F4D3A</item>
+        <item name="android:navigationBarColor">#EEF5EF</item>
+        <item name="android:windowBackground">#EEF5EF</item>
+    </style>
+</resources>
